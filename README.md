@@ -20,4 +20,4 @@
   it was working it was predicted the right word.
 
 ***************************************************
-Here i have share sample text data as well you can use educational purpose only. 
+Here i have shared sample text data as well.You can use this but educational purpose only nothing was there in my chat but i just mention
